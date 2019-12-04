@@ -1,4 +1,4 @@
-# welchome
+# welcome
 
 - [home](index.md)
-- [project](index.md)
+- [work](index.md)
