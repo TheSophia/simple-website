@@ -1,7 +1,7 @@
 # work
 
 - [Home](index.md)
-- [Work](index.md)
+- [Work](work.md)
 
 ## project 1
 
