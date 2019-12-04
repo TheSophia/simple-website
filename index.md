@@ -1,4 +1,4 @@
 # welcome
 
 - [home](index.md)
-- [work](index.md)
+- [work](work.md)
